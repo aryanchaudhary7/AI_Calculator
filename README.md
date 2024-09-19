@@ -21,4 +21,4 @@ The **AI Calculator** is a project, built using **OpenCV** and **Google’s Gemi
 
 ## 🎥 Demo Video
 Check out the demo video to see the AI Calculator in action:  
-[Watch the Demo Video](https://drive.google.com/file/d/1UiZa65lu9K7govfAnKr3at1ZyCJY779w/view?usp=sharing)
+[Watch the Demo Video](https://drive.google.com/file/d/1_DQF2jwuqOR03P50gvD9XpwBseKruYIO/view?usp=sharing)
