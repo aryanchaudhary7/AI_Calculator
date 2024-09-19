@@ -18,3 +18,7 @@ The **AI Calculator** is a project, built using **OpenCV** and **Google’s Gemi
 - 🤖 **Google Generative AI 0.1.0**
 - 🛠️ **CVZone 1.5.6**
 - 🌐 **Django 4.2**
+
+## 🎥 Demo Video
+Check out the demo video to see the AI Calculator in action:  
+[Watch the Demo Video](https://drive.google.com/file/d/1UiZa65lu9K7govfAnKr3at1ZyCJY779w/view?usp=sharing)
